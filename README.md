@@ -10,38 +10,41 @@ The main objective of this project is to analyze employee attrition data and unc
 
 The dashboard provides interactive visualizations to help understand:
 
-Why employees leave the organization
-Which departments are most affected
-Attrition trends across different employee groups
-Key factors influencing employee turnover
+* Why employees leave the organization
+* Which departments are most affected
+* Attrition trends across different employee groups
+* Key factors influencing employee turnover
 
 ---
 
 ## 🛠 Tools & Technologies Used
-Power BI
-Microsoft Excel / CSV
-Data Cleaning & Data Transformation
-Data Visualization
-DAX Measures
+
+* Power BI
+* Microsoft Excel / CSV
+* Data Cleaning & Data Transformation
+* Data Visualization
+* DAX Measures
 
 ---
 
 ## 📊 Key KPIs
-Total Employees
-Attrition Count
-Attrition Rate
-Average Salary
-Average Age
-Average Years at Company
+
+* Total Employees
+* Attrition Count
+* Attrition Rate
+* Average Salary
+* Average Age
+* Average Years at Company
 
 ---
 
 ## 🔍 Key Insights
-Employees with overtime showed higher attrition rates.
-The Sales and Research & Development departments experienced significant employee turnover.
-Employees with lower salaries were more likely to leave the company.
-Attrition was higher among employees with lower job satisfaction.
-Younger employees and employees with fewer years at the company showed higher attrition trends.
+
+* Employees with overtime showed higher attrition rates.
+* The Sales and Research & Development departments experienced significant employee turnover.
+* Employees with lower salaries were more likely to leave the company.
+* Attrition was higher among employees with lower job satisfaction.
+* Younger employees and employees with fewer years at the company showed higher attrition trends.
 
 ---
 
@@ -65,15 +68,15 @@ The analysis highlights that employee attrition is strongly influenced by factor
 
 The dataset contains employee-related information such as:
 
-Age
-Department
-Job Role
-Salary
-Education
-Job Satisfaction
-Overtime
-Attrition Status
-Years at Company
+* Age
+* Department
+* Job Role
+* Salary
+* Education
+* Job Satisfaction
+* Overtime
+* Attrition Status
+* Years at Company
 
 ---
 
