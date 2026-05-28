@@ -57,9 +57,13 @@ The analysis highlights that employee attrition is strongly influenced by factor
 ## 🚀 Project Highlights
 
 ✔ Interactive Power BI Dashboard
+
 ✔ HR Data Analysis & Visualization
+
 ✔ Business Insights & Recommendations
+
 ✔ Employee Attrition Trend Analysis
+
 ✔ Data-Driven Decision Making
 
 ---
@@ -83,4 +87,5 @@ The dataset contains employee-related information such as:
 ## 👨‍💻 Author
 
 Rahul Jimmy
+
 Aspiring Data Scientist & Machine Learning Engineer 🚀
