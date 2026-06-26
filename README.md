@@ -84,7 +84,8 @@ The dataset contains employee-related information such as:
 ## 👨‍💻 Author
 
  Rahul Jimmy <br>
- Aspiring Data Scientist & Machine Learning Engineer 🚀
+ 
+ Aspiring Data Scientist
 
  ---
 
