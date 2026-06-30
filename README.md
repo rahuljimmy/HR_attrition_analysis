@@ -81,13 +81,9 @@ The dataset contains employee-related information such as:
 
 ---
 
-## 👨‍💻 Author
-
- Rahul Jimmy <br>
- 
- Aspiring Data Scientist
-
- ---
+## 📷 Dashboard Preview
 
 <img width="1375" height="826" alt="HR_screenshot" src="https://github.com/user-attachments/assets/eb19ad4f-ab9b-49df-b8d9-80591d6894f7" />
+
+---
 
