@@ -27,6 +27,22 @@ The dashboard provides interactive visualizations to help understand:
 
 ---
 
+## 📂 Dataset
+
+The dataset contains employee-related information such as:
+
+* Age
+* Department
+* Job Role
+* Salary
+* Education
+* Job Satisfaction
+* Overtime
+* Attrition Status
+* Years at Company
+
+---
+
 ## 📊 Key KPIs
 
 * Total Employees
@@ -62,22 +78,6 @@ The analysis highlights that employee attrition is strongly influenced by factor
  ✔ Employee Attrition Trend Analysis <br>
  ✔ Data-Driven Decision Making <br>
  ✔ Dynamic Power BI Dashboard connected with PostgreSQL
-
----
-
-## 📂 Dataset
-
-The dataset contains employee-related information such as:
-
-* Age
-* Department
-* Job Role
-* Salary
-* Education
-* Job Satisfaction
-* Overtime
-* Attrition Status
-* Years at Company
 
 ---
 
